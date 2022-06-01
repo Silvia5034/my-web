@@ -1,0 +1,11 @@
+#container{
+
+    font-size: 20px;
+    color: rgb(45, 141, 197);
+}
+
+.fa-solid, .fa-house-chimney-window{
+    margin-right: 10px;
+    color: rgb(230, 121, 139);
+    font-size: 35px;
+}
